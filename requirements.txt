@@ -1,0 +1,6 @@
+peft
+accelerate
+bitsandbytes
+scipy
+torch
+sentencepiece
